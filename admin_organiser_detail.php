@@ -103,7 +103,7 @@ else
 
 		<!-- Header -->
 			<header id="header" class="alt">
-				<div class="logo"> by TEAM INSOMNIAC<span></span></div>
+				<div class="logo"> by Team Insomniac<span></span></div>
 				<a href="#menu">MENU</a>
 			</header>
 

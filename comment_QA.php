@@ -146,7 +146,7 @@ if(!isset($_SESSION['Organiser_Institute']))
 					</ul>
 				</div>
 				<div class="copyright">
-					&copy; IIITRANCHI. All rights reserved.
+					&copy; TEAM INSOMNIAC. All rights reserved.
 				</div>
 			</footer>
 

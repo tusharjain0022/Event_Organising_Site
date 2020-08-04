@@ -360,7 +360,7 @@ else
 					<div class="gallery">
 						<div>
 							<div class="image fit">
-								<a href="https://www.facebook.com/CuLAriti/"><img src="images/partner1.jpg" alt="" /></a>
+								<a href="#"><img src="images/partner1.jpg" alt="" /></a>
 							</div>
 						</div>
 						<div>
