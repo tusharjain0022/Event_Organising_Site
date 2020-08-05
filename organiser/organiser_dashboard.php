@@ -395,8 +395,7 @@ if(isset($_POST['ENAME']) && isset($_POST['SDATE']) && isset($_POST['STIME']) &&
 	}
 	
 </style>
-
-<!-- 
-                                               Authors:
-         Rishav Mazumdar ( 2019UGEC013R )           Tushar Jain ( 2019UGCS001R )
--->                
+<!--
+                                 Authors
+        Rishav Mazumdar            				Tushar Jain 
+-->                  

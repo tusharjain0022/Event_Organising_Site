@@ -256,6 +256,7 @@ Insert an Image for your event:
 	</body>
 </html>
 
-<!--                                            Authors:
-         Rishav Mazumdar ( 2019UGEC013R )                   Tushar Jain ( 2019UGCS001R )
--->                
+<!--
+                                 Authors
+        Rishav Mazumdar            				Tushar Jain 
+-->        

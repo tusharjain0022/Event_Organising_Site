@@ -67,8 +67,8 @@ if($result)
 ?>
 <!DOCTYPE HTML>
 <!--
-  Site developed by Tushar Jain (2019UGCS001R) IIITR and 
-                    Rishav Mazumdar (2019UGEC013R) IIITR
+  Site developed by Tushar Jain (github:tusharjain0022) IIITR and 
+                    Rishav Mazumdar (github:RishavMz) IIITR
 -->
 <html>
 	<head>
@@ -464,3 +464,8 @@ else
 
 	</body>
 </html>
+
+<!--
+                                 Authors
+        Rishav Mazumdar            				Tushar Jain 
+-->        

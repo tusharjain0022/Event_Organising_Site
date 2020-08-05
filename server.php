@@ -169,3 +169,8 @@ else
   	  	header("location: user_event.php?ERRORS=1&EVENT_ID=$id ");
 }
 ?>
+
+<!--
+                                 Authors
+        Rishav Mazumdar            				Tushar Jain 
+-->        
