@@ -16,7 +16,7 @@ include('server.php');
 
 		<!-- Header -->
 			<header id="header" class="alt">
-				<div class="logo"><a href="index.html">by IIITRANCHI <span></span></a></div>
+				<div class="logo">by Team Insomniac</div>
 				<a href="#menu">MENU</a>
 			</header>
 
@@ -147,14 +147,14 @@ include('server.php');
 			<footer id="footer">
 				<div class="container">
 					<ul class="icons">
-							<li><a href="https://twitter.com/IIITRanchi" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="https://www.facebook.com/IIITRanchiOfficial/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a href="https://www.instagram.com/its_iiit_ranchi/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-						<li><a href="http://iiitranchi.ac.in/" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
 					</ul>
 				</div>
 				<div class="copyright">
-					&copy; IIITRANCHI. All rights reserved.
+					&copy; TEAM INSOMNIAC. All rights reserved.
 				</div>
 			</footer>
 
