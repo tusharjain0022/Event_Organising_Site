@@ -1,4 +1,4 @@
-# Hackovid
+# INSOMNIAC Event Organising Site
 A web based event organising portal where organisers can broadcast their event to the participants.
     
     Project Description:
