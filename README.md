@@ -11,7 +11,7 @@ A web based event organising portal where organisers can broadcast their event t
         and registered students. There also exists comment section for each individual event for queries and answers.
 
   
-  TEAM:
+  TEAM INSOMNIAC:
   
       => Tushar Jain (tusharjain0022)
       => Rishav Mazumdar (RishavMz)
