@@ -292,7 +292,7 @@ while($r=mysqli_fetch_assoc($result))
 								</div>
 								<div class="content">
 									<header class="align-center">
-										<p>Random</p>
+										<p>Event</p>
 										<h2>'.$event_name.'</h2>
 									</header>
 									<p>Start Date:'.$begin.'<br>End Date:'.$end.'<br>Prizes:'.$prizes.'</p>
@@ -360,7 +360,7 @@ while($r=mysqli_fetch_assoc($result))
 								</div>
 								<div class="content">
 									<header class="align-center">
-										<p>Random</p>
+										<p>Event</p>
 										<h2>'.$event_name.'</h2>
 									</header>
 									<p>Start Date:'.$begin.'<br>End Date:'.$end.'<br>Prizes:'.$prizes.'</p>
